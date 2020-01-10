@@ -1,0 +1,4 @@
+D:\Agadia\Working Folder\Personal\Yukta\YuktaGOI\YuktaGOI\bin\YuktaGOI.dll
+D:\Agadia\Working Folder\Personal\Yukta\YuktaGOI\YuktaGOI\bin\YuktaGOI.pdb
+D:\Agadia\Working Folder\Personal\Yukta\YuktaGOI\YuktaGOI\obj\Debug\YuktaGOI.dll
+D:\Agadia\Working Folder\Personal\Yukta\YuktaGOI\YuktaGOI\obj\Debug\YuktaGOI.pdb
